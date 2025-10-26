@@ -1,3 +1,2 @@
 # Arduino1
-//Hello world
-//hello
+//Learning Arduino 
